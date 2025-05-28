@@ -1,2 +1,2 @@
 # Google-Forms-to-Discord
-// Readme file
+A quick way to automatically send Google Form responses to a Discord channel
